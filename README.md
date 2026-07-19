@@ -94,25 +94,25 @@ The project includes **25 SQL business questions**, including:
 
 ## 🏠 Executive Dashboard
 
-![Executive Dashboard](Images/executive-dashboard.png)
+![Executive Dashboard](Images/Executive_Sales.png)
 
 ---
 
 ## 📈 Sales Analysis
 
-![Sales Analysis](Images/sales-analysis.png)
+![Sales Analysis](Images/Sales_Analysis.png)
 
 ---
 
 ## 📦 Product Analysis
 
-![Product Analysis](Images/product-analysis.png)
+![Product Analysis](Images/Product_Analysis.png)
 
 ---
 
 ## 👥 Customer Insights
 
-![Customer Insights](Images/customer-insights.png)
+![Customer Insights](Images/Customer_Insights.png)
 
 ---
 
